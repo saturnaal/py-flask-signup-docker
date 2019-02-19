@@ -2,7 +2,7 @@
     "family": "flask-signup",
     "containerDefinitions": [
         {
-            "image": "saturnaal/appzen-jenkins-demo/flask-signup:v_0",
+            "image": "saturnaal/appzen-jenkins-demo:v_0",
             "name": "flask-signup",
             "cpu": 10,
             "memory": 256,
